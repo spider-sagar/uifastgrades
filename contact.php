@@ -3,7 +3,7 @@
     <section class="inner-banner">
     	<img class="w-100" src="images/inner-banner.jpg" alt="">  
     	<div class="brd-crm">
-    		<a href="#">Contact Us..</a>
+    		<a href="#">Contact Us.......</a>
     	</div>      	
     </section> 
     <!-- Breadcrum -->
