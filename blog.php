@@ -20,7 +20,7 @@
                               <img src="images/b1.jpg" alt="" class="img-fluid">
                            </div>
                            <h2 class="entry-title">
-                              <a href="blog-single.php">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</a>
+                              <a href="blog-single.php">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia Spider_Tech</a>
                            </h2>
                            <div class="entry-meta">
                               <ul>
